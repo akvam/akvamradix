@@ -3,7 +3,7 @@ EDC - Equinor (Software) Developer Days
 
 A Omnia Raix Example Application for EDC 2018
 - Single nodejs app requesting a famous quote from "Andrux Famous Quotes"
-- Multistage docker build with test
+- Multistage docker build with test - change test
 
 ### Local development and test
 - npm start
